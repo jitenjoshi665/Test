@@ -1,13 +1,29 @@
-# Test Project
+# 🚀 Test Project
 
-This is my first GitHub repository.
+> A starter repository showcasing my GitHub workflow and learning journey.
 
-## About
-I am learning development and exploring GitHub.
+---
 
-## Tech
-- Basic setup
-- Version control using Git
+## 👨‍💻 About Me
+Hi, I'm **Jiten Kumar Joshi**  
+🎓 Computer Science (Data Science) student  
+💡 Interested in AI, development, and problem-solving  
 
-## Author
-Jiten Kumar Joshi
+---
+
+## 📌 Project Overview
+This repository is created to:
+- Understand Git & GitHub workflow  
+- Practice version control  
+- Build a strong foundation for future projects  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C (learning)  
+- **Tools:** Git, GitHub  
+- **Concepts:** Data Structures, DBMS  
+
+---
+
+## 📂 Repository Structure
