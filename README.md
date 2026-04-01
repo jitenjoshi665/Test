@@ -10,4 +10,4 @@ I am learning development and exploring GitHub.
 - Version control using Git
 
 ## Author
-Jiten Kumar Joshi# Test
+Jiten Kumar Joshi
